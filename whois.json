@@ -8,5 +8,15 @@
         "extensions": ".tv",
         "uri": "socket://tvwhois.verisign-grs.com",
         "available": "No match for"
+    },
+    {
+        "extensions": ".bayern",
+        "uri": "socket://whois.nic.bayern",
+        "available": "This domain name has not been registered"
+    },
+    {
+        "extensions": ".hamburg",
+        "uri": "socket://whois.nic.hamburg",
+        "available": "The queried object does not exist"
     }
 ]
