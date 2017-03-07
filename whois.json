@@ -1,0 +1,12 @@
+[
+    {
+        "extensions": ".top",
+        "uri": "socket://whois.nic.top",
+        "available": "The queried object does not exist"
+    },
+    {
+        "extensions": ".tv",
+        "uri": "socket://tvwhois.verisign-grs.com",
+        "available": "No match for"
+    }
+]
