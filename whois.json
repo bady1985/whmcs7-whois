@@ -18,5 +18,10 @@
         "extensions": ".hamburg",
         "uri": "socket://whois.nic.hamburg",
         "available": "The queried object does not exist"
+    },
+    {
+        "extensions": ".versicherung",
+        "uri": "socket://whois.nic.versicherung",
+        "available": "The queried object does not exist"
     }
 ]
