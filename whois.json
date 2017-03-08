@@ -33,5 +33,15 @@
         "extensions": ".jetzt",
         "uri": "socket://whois.nic.jetzt",
         "available": "Domain not found"
+    },
+    {
+        "extensions": ".nrw",
+        "uri": "socket://whois.nic.nrw",
+        "available": "no matching objects found"
+    },
+    {
+        "extensions": ".koeln",
+        "uri": "socket://whois.nic.koeln",
+        "available": "no matching objects found"
     }
 ]
