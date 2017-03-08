@@ -28,5 +28,10 @@
         "extensions": ".bio",
         "uri": "socket://whois.nic.bio",
         "available": "NOT FOUND"
+    },
+    {
+        "extensions": ".jetzt",
+        "uri": "socket://whois.nic.jetzt",
+        "available": "Domain not found"
     }
 ]
