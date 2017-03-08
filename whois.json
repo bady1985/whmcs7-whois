@@ -23,5 +23,10 @@
         "extensions": ".versicherung",
         "uri": "socket://whois.nic.versicherung",
         "available": "The queried object does not exist"
+    },
+    {
+        "extensions": ".bio",
+        "uri": "socket://whois.nic.bio",
+        "available": "NOT FOUND"
     }
 ]
