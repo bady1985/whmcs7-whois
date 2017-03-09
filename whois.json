@@ -45,28 +45,28 @@
         "available": "no matching objects found"
     },
     {
-     "extensions": ".saarland",
-     "uri": "socket://whois.nic.saarland",
-     "available": "The queried object does not exist"
+         "extensions": ".saarland",
+         "uri": "socket://whois.nic.saarland",
+         "available": "The queried object does not exist"
      },
      {
-     "extensions": ".wien",
-     "uri": "socket://whois.nic.wien",
-     "available": "The queried object does not exist"
+         "extensions": ".wien",
+         "uri": "socket://whois.nic.wien",
+         "available": "The queried object does not exist"
      },
      {
-     "extensions": ".wiki",
-     "uri": "socket://whois.nic.wiki",
-     "available": "DOMAIN NOT FOUND"
+         "extensions": ".wiki",
+         "uri": "socket://whois.nic.wiki",
+         "available": "DOMAIN NOT FOUND"
      },
      {
-     "extensions": ".bank",
-     "uri": "socket://whois.nic.bank",
-     "available": "No match for"
+         "extensions": ".bank",
+         "uri": "socket://whois.nic.bank",
+         "available": "No match for"
      },
      {
-     "extensions": ".ist",
-      "uri": "socket://whois.afilias-srs.net",
-      "available": "NOT FOUND"
+         "extensions": ".ist",
+          "uri": "socket://whois.afilias-srs.net",
+          "available": "NOT FOUND"
      }
 ]
