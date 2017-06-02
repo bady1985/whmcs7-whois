@@ -68,5 +68,30 @@
          "extensions": ".ist",
           "uri": "socket://whois.afilias-srs.net",
           "available": "NOT FOUND"
-     }
+     },
+    {
+        "extensions": ".berlin",
+        "uri": "socket://whois.nic.berlin",
+        "available": "The queried object does not exist"
+    },
+    {
+        "extensions": ".ruhr",
+        "uri": "socket://whois.nic.ruhr",
+        "available": "no matching objects found"
+    },
+    {
+        "extensions": ".science",
+        "uri": "socket://whois.nic.science",
+        "available": "No Data Found"
+    },
+    {
+        "extensions": ".shop",
+        "uri": "socket://whois.nic.shop",
+        "available": "The queried object does not exist"
+    },
+    {
+        "extensions": ".webcam",
+        "uri": "socket://whois.nic.webcam",
+        "available": "No Data Found"
+    }
 ]
